@@ -2,7 +2,7 @@ export const Bio = {
   name: "Jakub Knap",
   roles: ["Java Developer"],
   description:
-    "I've been working as a Java Developer for over a year now, and I'm also studying part-time computer science. \nWhat fascinates me about programming is the possibility to create, continuous development and the end result of my work. I am an ambitious person with a strong desire to learn and grow. \n\nFeel free to contact me via Linkedin with any questions or opportunities!",
+    "I've been working as a Java Developer for almost 2 years, and I'm also non-stationary studying computer science. \nWhat fascinates me in programming is the possibility to create, continuous development and the end result of my work. \nI am an ambitious person with a strong desire to learn and grow. \n\nFeel free to contact me via Linkedin with any questions or opportunities!",
   github: "https://github.com/jakubknap",
   resume:
     "https://drive.google.com/file/d/13XlQCezG00mOycp_wHKEETNSh85LCxlJ/view?usp=sharing",
