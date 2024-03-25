@@ -4,13 +4,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://jakubknap.github.io)
 
-## Some Images:
-
-<img width="450px;" src="https://github.com/jakubknap/portfolio/assets/93727414/aae7f7a1-0d33-4945-b049-67bc41f25267"/>
-<img width="450px;" src="https://github.com/jakubknap/portfolio/assets/93727414/1d412176-a5c0-4c25-8115-e7683b570982"/>
-<img width="450px;" src="https://github.com/jakubknap/portfolio/assets/93727414/173080a1-286f-4749-8519-bad1eaa75e81"/>
-<img width="450px;" src="https://github.com/jakubknap/portfolio/assets/93727414/6d67a542-50c2-4753-9921-18162cebce2c"/>
-
 ## Table of Contents
 
 - [Introduction](#introduction)
