@@ -107,7 +107,7 @@ function Footer() {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2023 Jakub Knap. All rights reserved.</Copyright>
+        <Copyright>&copy; 2024 Jakub Knap. All rights reserved.</Copyright>
         <Copyright>
           The template was created by Rishav Chanda. I only customized it for
           myself.
