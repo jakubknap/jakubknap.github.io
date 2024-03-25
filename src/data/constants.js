@@ -5,7 +5,7 @@ export const Bio = {
     "I've been working as a Java Developer for almost 2 years, and I'm also non-stationary studying computer science. \nWhat fascinates me in programming is the possibility to create, continuous development and the end result of my work. \nI am an ambitious person with a strong desire to learn and grow. \n\nFeel free to contact me via Linkedin with any questions or opportunities!",
   github: "https://github.com/jakubknap",
   resume:
-    "https://drive.google.com/file/d/13XlQCezG00mOycp_wHKEETNSh85LCxlJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZykarAMVlSXQDP1qmd77xw7TqOKBXfuB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/jakub-knap/",
   insta: "https://www.instagram.com/kuba_knap/",
   facebook: "https://www.facebook.com/profile.php?id=100010754029202",
